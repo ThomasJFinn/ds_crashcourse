@@ -6,5 +6,5 @@ This repository is for people with a strong academic background who are consider
 
 **What is meant by *strong academic background*?**
 
-A strong academic background is shorthand for someone confident with technical aspects of mathematics and computer science through university education or research experience. Our focus will be less on the theoretical aspect of data science and more on practical skills valuable to data scientists.
+A strong academic background is shorthand for someone confident with technical aspects of mathematics and computer science through university education or research experience. Our focus will be less on the theoretical aspects of data science and more on practical skills valuable to data scientists.
 
